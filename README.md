@@ -1,6 +1,6 @@
-# MERN Stack Chat Application
+# MERN Stack Chat Web-Based Application
 
-**MERN Stack Chat Application** is a real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO for live messaging. The project focuses on implementing a CRUD system for users with authentication and authorization, emitting real-time events, and displaying chat history in a modern, responsive UI.
+**MERN Stack Chat Web-Application** is a real-time chat web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO for live messaging. The project focuses on implementing a CRUD system for users with authentication and authorization, emitting real-time events, and displaying chat history in a modern, responsive UI.
 
 ---
 
