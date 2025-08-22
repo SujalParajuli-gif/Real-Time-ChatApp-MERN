@@ -1,0 +1,10 @@
+/* TailwindCSS imports */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styles can go here */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f9;
+}
